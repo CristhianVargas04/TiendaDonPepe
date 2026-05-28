@@ -1,7 +1,7 @@
 # TiendaDonPepe 
  
 ## Sprint 0 Goal 
-El equipo cuenta con el entorno de desarrollo configurado, Git Flow implementado y el Product Backlog organizado en GitHub Projects para el desarrollo del Sistema de Gestión de Abarrotes, orientado al control de productos, inventario y ventas.
+Al finalizar el Sprint 0, el equipo contará con una base técnica y organizacional funcional para iniciar el desarrollo del Sistema de Gestión de Abarrotes, permitiendo trabajar de manera colaborativa sobre una arquitectura inicial preparada para implementar los módulos de inventario, productos y ventas.
  
 ## Equipo — [Nombre del Equipo] 
 | Rol           | Integrante          | GitHub           | 
