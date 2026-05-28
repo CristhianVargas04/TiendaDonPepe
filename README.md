@@ -1,7 +1,7 @@
 # TiendaDonPepe 
  
 ## Sprint 0 Goal 
-Al finalizar el Sprint 0, el equipo contará con una base técnica y organizacional funcional para iniciar el desarrollo del Sistema de Gestión de Abarrotes, permitiendo trabajar de manera colaborativa sobre una arquitectura inicial preparada para implementar los módulos de inventario, productos y ventas.
+Al finalizar el Sprint 0, el equipo contará con una base técnica y organizacional funcional para iniciar el desarrollo del Sistema de Gestión de Comercio, permitiendo trabajar de manera colaborativa sobre una arquitectura inicial preparada para implementar los módulos de inventario, productos y ventas.
  
 ## Equipo — [Nombre del Equipo] 
 | Rol           | Integrante          | GitHub           | 
