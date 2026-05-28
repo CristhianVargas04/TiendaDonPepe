@@ -1,8 +1,7 @@
 # TiendaDonPepe 
  
 ## Sprint 0 Goal 
-El equipo tiene el entorno configurado, el repositorio Git Flow activo, 
-el SRS en borrador (IEEE 830) y el Product Backlog en GitHub Projects. 
+El equipo cuenta con el entorno de desarrollo configurado, Git Flow implementado y el Product Backlog organizado en GitHub Projects para el desarrollo del Sistema de Gestión de Abarrotes, orientado al control de productos, inventario y ventas.
  
 ## Equipo — [Nombre del Equipo] 
 | Rol           | Integrante          | GitHub           | 
