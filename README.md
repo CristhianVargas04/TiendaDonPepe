@@ -13,4 +13,4 @@ Al finalizar el Sprint 0, el equipo contará con una base técnica y organizacio
 | Frontend Dev  | [Miranda Medina Eddie]     | @Moden-Jess | 
 | QA / DevOps   | [Munguia Torres Franklyn]  | @Frank06-mu | 
  
-## Stack Tecnológico - Python 3.12+ | Django 5.x | DRF 3.15+ - Bootstrap 5 | SQLite (dev) | PostgreSQL (prod)|
+## Stack Tecnológico - Python 3.14.5 | Django 6.0.5 | DRF 3.17.1 - Bootstrap 5 | SQLite (dev) | PostgreSQL (prod)|
